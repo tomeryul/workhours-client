@@ -20,7 +20,7 @@ This repository contains the **WorkHours Client**, a React-based frontend applic
 
 To run this project, you will need:
 1. **Node.js** and **npm** installed on your machine.
-2. The **WorkHours Server** repository. Clone and set up the server using the instructions in its [README file](https://github.com/tomeryul/workhours-server/README.md).
+2. The **WorkHours Server** repository. Clone and set up the server using the instructions in its [README file](https://github.com/tomeryul/workhours-server).
 
 ---
 
