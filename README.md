@@ -1,6 +1,6 @@
 # WorkHours Client
 
-This repository contains the **WorkHours Client**, a React-based frontend application designed to manage and track work hours for users. The client communicates with the backend API provided by the **[WorkHours Server](https://github.com/your-username/workhours-server)** repository. 
+This repository contains the **WorkHours Client**, a React-based frontend application designed to manage and track work hours for users. The client communicates with the backend API provided by the **[WorkHours Server](https://github.com/tomeryul/workhours-server)** repository. 
 
 ---
 
