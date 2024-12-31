@@ -43,7 +43,7 @@ Ensure that the `WorkHours Server` is running and update any required API URLs i
 npm start
 ```
 
-This will start the development server. The application will be accessible at `http://localhost:3001
+This will start the development server. The application will be accessible at http://localhost:3001
 
 ---
 
